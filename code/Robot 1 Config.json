@@ -1,0 +1,15 @@
+[{
+    "Distance Between Wheels" : 0.4,
+    "Maximum Motor Power" : 1.0,
+    "Motor Noise Range" : 0.1,
+    "Starting Position" : [0.0, 0.0],
+    "Width" : 0.3,
+    "Length" : 0.4,
+    "Height" : 0.3,
+    "Mass" : 1.0,
+    "Camera Height" : 0.3,
+    "Camera Field of View" : 45.0,
+    "Marker Pixels Minimum" : 40,
+    "Marker Pixels Noise Range" : 5,
+    "Ignore Motion Blur" : false
+}]
